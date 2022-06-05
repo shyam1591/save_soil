@@ -4,5 +4,5 @@ from django.http import HttpResponse
 
 def index(request):
     """Function to provide response to HTTP request"""
-    return HttpResponse('Hello world!')
+    return HttpResponse('Welcome Save Soil Page!')
     
